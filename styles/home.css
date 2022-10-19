@@ -1,0 +1,24 @@
+.container {
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+}
+
+.homeText {
+  font-size: 60;
+  font-weight: 600;
+  margin-bottom: 30;
+}
+
+.button {
+  align-items: center;
+  justify-content: center;
+  height: 60;
+  width: 300;
+  border-radius: 5px;
+  margin-bottom: 20;
+}
+.buttonText {
+  font-weight: 600;
+  font-size: 17;
+}
